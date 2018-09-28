@@ -9,3 +9,6 @@ Fremont.csv
 
 #pycahce
 jupyterworkflow/__pycache__/
+
+#another pychace
+jupyterworkflow/tests/__pycache__/
