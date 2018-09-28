@@ -1,2 +1,11 @@
 #Data
 Fremont.csv
+
+#File
+.vs
+
+#another file
+.ipynb_checkpoints
+
+#pycahce
+jupyterworkflow/__pycache__/
